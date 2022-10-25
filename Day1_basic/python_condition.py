@@ -60,5 +60,3 @@ for i in range(10):
         # continue  # 반복문의 코드 처음으로 돌아감
         break  # 반복문을 멈춤
     print(i)  # 0,1,2,6,7...
-
-
